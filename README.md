@@ -1,7 +1,6 @@
 # tools-black-screens
-alat buat ngehack fb tapi tidak bertarget (mass hack fb)
 
-<h2>ini yang dibutuhkan untuk semua sc yang ada disini, wajib di install<h2>
+<h2>ini yang dibutuhkan untuk semua sc yang ada disini, wajib di install</h2>
 <br>
 Pkg update && upgrade<br>
 pkg install python && python2<br>
